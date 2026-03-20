@@ -18,4 +18,4 @@ Add two more thumb buttons for an extended version.
 
 The design files are free to download for personal and commercial use. The only requirements are correct and visible attribution of your use of the Butterfly Layout to Alpenmeister. And I would be happy if you could leave me a message, just so I know who uses this. Thanks!
 
-Butterfly Layout by Alpenmeister is licensed under Creative Commons Attribution-ShareAlike 4.0 International
+Butterfly Layout by Alpenmeister is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
