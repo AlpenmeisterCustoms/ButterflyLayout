@@ -1,2 +1,2 @@
-# MeisterLayout
-Ergonomic leverless controller layout
+# Butterfly layout
+Ergonomic leverless controller layout by Alpenmeister
