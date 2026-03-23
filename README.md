@@ -28,11 +28,11 @@ For a more classical button mapping with two pinky finger buttons, another butto
 
 <img width="1805" height="1013" alt="butterfly2" src="https://github.com/user-attachments/assets/27e297c8-c4d5-4b71-9973-ab8c8751724e" />
 
-To make it truly universal, the action button layout is doubled and mirrored, so you can just as easily use it as a "southpaw" controller or for rhythm games.
+To make it truly universal, the action button layout is doubled and mirrored, so you can just as easily use it as a "southpaw" controller or for rhythm games. This layout utilizes the maximum amount of buttons usable with an RP2040 chip.
 
 <img width="1805" height="1013" alt="butterfly3" src="https://github.com/user-attachments/assets/bd525d0c-0ca2-4a01-8097-ecda77ff8829" />
 
-Last but not least, add two more thumb buttons and another one in the middle for an extended version.
+Last but not least, add two more thumb buttons and another one in the middle for an extended version. Some workarounds like a RP2350 chip, GPIO extender or hall effect board are necessary to utilize this amount without any double bindings.
 
 <img width="1805" height="1013" alt="butterfly4" src="https://github.com/user-attachments/assets/d79de7be-8e22-4b3a-bdf7-3f7fb46353fe" />
 
@@ -40,7 +40,7 @@ Last but not least, add two more thumb buttons and another one in the middle for
 
 This layout uses the smaller arcade button size and is spaced with no rims in mind. All the buttons are as close together as possible while still feeling comfortable to use. For use with classical arcade buttons with a rim, the spacing needs to be widened. Only the thumb and middle buttons use the larger standard arcade button cap size, to make it easier for both hands to use them. Although this is a split layout, you can do all the shortcuts and tricks you would normally do on the original all-button controller layout with only one thumb button.
 
-# Licensing
+## Licensing
 
 The design files are free to download for personal and commercial use. The only requirement is attribution of your use of the Butterfly Layout to Alpenmeister. And I would be happy if you could leave me a message, just so I know who uses this. Thanks!
 
