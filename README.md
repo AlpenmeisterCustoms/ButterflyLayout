@@ -10,19 +10,22 @@ This highly ergonomic and modular layout is the final step in an evolution that 
 
 It takes the familiar keyboard movement layout with a spacebar, adds the classic 6-button arcade action controls and places all the modern gamepad buttons around them in the most ergonomic way. As an added bonus, the L1/L2 buttons regain their logical position to the left of the 4 main gamepad buttons, while R1/R2 remain to the right. 
 
-<img width="1805" height="1013" alt="butterfly1" src="https://github.com/user-attachments/assets/9237dcdc-a96a-461c-b37e-48cf7d9dc82a" />
+<img width="1805" height="1013" alt="butterfly1" src="https://github.com/user-attachments/assets/8284515c-df01-4c12-8a77-4c6b3f14f1ac" />
+*Minimal layout*
 
-For a more classical button mapping with two pinky finger buttons, another button is added to the right side.
+For a more classical button mapping with two pinky finger buttons, another button could be added to the right side.
 
-<img width="1805" height="1013" alt="butterfly2" src="https://github.com/user-attachments/assets/b5ba90c1-5dd2-46a3-9a6b-dbd61b426259" />
+<img width="1805" height="1013" alt="butterfly2" src="https://github.com/user-attachments/assets/27e297c8-c4d5-4b71-9973-ab8c8751724e" />
 
 To make it truly universal, the action button layout is doubled and mirrored, so you can just as easily use it as a "southpaw" controller or for rhythm games.
 
-<img width="1805" height="1013" alt="butterfly3" src="https://github.com/user-attachments/assets/03cfb2e3-122d-4bcc-b96f-448f60082b52" />
+<img width="1805" height="1013" alt="butterfly3" src="https://github.com/user-attachments/assets/bd525d0c-0ca2-4a01-8097-ecda77ff8829" />
+*Standard layout*
 
 Last but not least, add two more thumb buttons and another one in the middle for an extended version.
 
-<img width="1805" height="1013" alt="butterfly4" src="https://github.com/user-attachments/assets/ba1dc807-86a2-4419-9baf-ec9e0379c163" />
+<img width="1805" height="1013" alt="butterfly4" src="https://github.com/user-attachments/assets/d79de7be-8e22-4b3a-bdf7-3f7fb46353fe" />
+*Extended layout*
 
 ## Other considerations
 
