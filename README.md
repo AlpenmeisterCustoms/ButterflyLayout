@@ -15,8 +15,7 @@ Pros:
 
 Cons:
 * More buttons than needed for most games
-* Layout angle not optimal for pushing two horizontally adjecent buttons like B1+B3 / A + X at the same time (but also not needed anymore, because of the plethora of dedicated buttons)
-* Tight spacing, not optimal for very large hands and chubby fingers
+* Spacing should be increased for very large hands and chubby fingers
 
 ## Evolution
 
